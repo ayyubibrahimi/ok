@@ -3,13 +3,13 @@ Matching names from the Oathkeeper's membership list with national law enforceme
 
 # Source data:
 
-NYPD: https://github.com/new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database-Updated
+New York, NY: https://github.com/new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database-Updated
 
-CPDP: https://github.com/invinst/chicago-police-data
+Chicago, IL: https://github.com/invinst/chicago-police-data
 
 LA: https://hub.wrgl.co/@ipno/r/data/refs/heads/personnel
 
-HI: https://www.honolulupd.org/wp-content/uploads/2022/01/2021-Legislative-Report.pdf
+Honolulu, HI: https://www.honolulupd.org/wp-content/uploads/2022/01/2021-Legislative-Report.pdf
 
 New Haven, CT: https://drive.google.com/drive/folders/1ysYDc6FYZgpbrBVRyfh6wZgoRYGGU10H
 
