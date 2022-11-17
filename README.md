@@ -3,16 +3,27 @@ Matching names from the Oathkeeper's membership list with national law enforceme
 
 # Source data:
 
-New York, NY: https://github.com/new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database-Updated
+New York, NY:
+1) https://github.com/new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database-Updated
+2) https://gothamist.com/news/staten-island-files-explore-hundreds-previously-secret-nypd-misconduct-findings
 
-Chicago, IL: https://github.com/invinst/chicago-police-data
+Chicago, IL: 
+1) https://github.com/invinst/chicago-police-data
 
-LA: https://hub.wrgl.co/@ipno/r/data/refs/heads/personnel
+LA: 
+1) https://hub.wrgl.co/@ipno/r/data/refs/heads/personnel
 
-Honolulu, HI: https://www.honolulupd.org/wp-content/uploads/2022/01/2021-Legislative-Report.pdf
+Honolulu, HI: 
+1) https://www.honolulupd.org/wp-content/uploads/2022/01/2021-Legislative-Report.pdf
 
-New Haven, CT: https://drive.google.com/drive/folders/1ysYDc6FYZgpbrBVRyfh6wZgoRYGGU10H
+New Haven, CT: 
+1) https://drive.google.com/drive/folders/1ysYDc6FYZgpbrBVRyfh6wZgoRYGGU10H
 
-El Cerrito, CA: http://www.el-cerrito.org/1343/Administrative-Investigation-12-21
+El Cerrito, CA: 
+1) http://www.el-cerrito.org/1343/Administrative-Investigation-12-21
 
-OK: https://ddosecrets.com/wiki/Oath_Keepers#National
+Washington, D.C.:
+1) https://dcauditor.org/report/mpd-personnel-settlement-report/
+
+OK: 
+1) https://ddosecrets.com/wiki/Oath_Keepers#National
