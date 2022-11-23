@@ -3,15 +3,19 @@ Matching names from the Oathkeeper's membership list with national law enforceme
 
 # Source data:
 
+Louisiana: 
+1) https://llead.co/
+
+Massachusetts:
+1) Police officers (available on request)
+2) Correctional officers (available on request)
+
 New York, NY:
 1) https://github.com/new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database-Updated
 2) https://gothamist.com/news/staten-island-files-explore-hundreds-previously-secret-nypd-misconduct-findings
 
 Chicago, IL: 
 1) https://github.com/invinst/chicago-police-data
-
-LA: 
-1) https://hub.wrgl.co/@ipno/r/data/refs/heads/personnel
 
 Honolulu, HI: 
 1) https://www.honolulupd.org/wp-content/uploads/2022/01/2021-Legislative-Report.pdf
