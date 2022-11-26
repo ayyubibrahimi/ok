@@ -1,7 +1,7 @@
-# OK Analysis
-Research on Oathkeeper affiliates who work in law enforcement 
+# Desc
+Research on oathkeeper affiliates who work in law enforcement 
 
-# Source data:
+# References:
 California: 
 1) http://www.el-cerrito.org/1343/Administrative-Investigation-12-21
 
