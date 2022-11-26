@@ -47,3 +47,4 @@ def clean_column_names(df: pd.DataFrame) -> pd.DataFrame:
         re.sub(r"[\s\W]+", "_", col.strip()).lower().strip("_") for col in df.columns
     ]
     return df
+
