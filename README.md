@@ -1,7 +1,7 @@
-# Desc
-Research on oathkeeper affiliates who work in law enforcement 
+## OK 
+This repo is for research on oathkeeper affiliates who work in law enforcement. All misconduct data was acquired from open source reports or public records requests. 
 
-# References
+## Data
 California: 
 1) http://www.el-cerrito.org/1343/Administrative-Investigation-12-21
 
