@@ -21,7 +21,7 @@ Massachusetts:
 local
 
 New York:
-https://github.com/new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database-Updated
+https://github.com/new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database-Updated; 
 https://gothamist.com/news/staten-island-files-explore-hundreds-previously-secret-nypd-misconduct-findings
 
 Washington, D.C.:
