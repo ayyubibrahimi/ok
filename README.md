@@ -1,5 +1,5 @@
 # OK 
-This repo is for research on oathkeepers who work in law enforcement that have a history of misconduct. All misconduct data was acquired from open source reports or public records requests. 
+This repo is for research on oathkeepers who work in law enforcement. All data was acquired from open source reports or public records requests. 
 
 ## Data
 California: 
